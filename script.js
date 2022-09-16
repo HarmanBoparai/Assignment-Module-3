@@ -90,7 +90,8 @@ var pwLowercase=confirm("Would you like to include lowercase");
 }
 // Write password to the #password input
 function generatePassword(){
-
+var userInput=window.prompt("How long you want your password should be?")
+var pwlength=parseInt(userInput)
 }
 function writePassword() {
   var password = generatePassword();

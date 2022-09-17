@@ -26,4 +26,3 @@ https://harmanboparai.github.io/Password-Generator-Javascript/
 ##Screenshot of the Application
 
 ![Screenshot of password generator](https://user-images.githubusercontent.com/112586779/190838860-4ef2c933-3085-4038-ae90-efb5deb53a86.png)
-![Screenshot-invalid password length](https://user-images.githubusercontent.com/112586779/190838862-c8351a0b-9201-44bf-b386-45049c472e14.png)

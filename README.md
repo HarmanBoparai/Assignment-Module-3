@@ -26,3 +26,4 @@ https://harmanboparai.github.io/Password-Generator-Javascript/
 ##Screenshot of the Application
 
 ![Screenshot of password generator](https://user-images.githubusercontent.com/112586779/190838860-4ef2c933-3085-4038-ae90-efb5deb53a86.png)
+![screenshot 2 -password gen javascript](https://user-images.githubusercontent.com/112586779/190839072-644171e0-2028-4d58-8216-008cfae21dd2.png)
